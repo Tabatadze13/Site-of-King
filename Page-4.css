@@ -1,0 +1,57 @@
+.u-section-1 .u-sheet-1 {
+  min-height: 842px;
+}
+
+.u-section-1 .u-text-1 {
+  font-weight: 700;
+  font-size: 4.5rem;
+  margin: 60px auto 0;
+}
+
+.u-section-1 .u-image-1 {
+  width: 373px;
+  height: 373px;
+  background-image: url("https://assets.nicepagecdn.com/5649b149/4236277/images/gelashaszvio.jpg");
+  background-position: 50% 50%;
+  margin: 30px auto 0;
+}
+
+.u-section-1 .u-text-2 {
+  width: 350px;
+  margin: 45px auto 0;
+}
+
+.u-section-1 .u-text-3 {
+  width: 564px;
+  margin: 15px auto 60px;
+}
+
+@media (max-width: 767px) {
+  .u-section-1 .u-text-3 {
+    width: 540px;
+  }
+}
+
+@media (max-width: 575px) {
+  .u-section-1 .u-sheet-1 {
+    min-height: 758px;
+  }
+
+  .u-section-1 .u-text-1 {
+    font-size: 2.25rem;
+  }
+
+  .u-section-1 .u-image-1 {
+    width: 340px;
+    height: 340px;
+  }
+
+  .u-section-1 .u-text-2 {
+    width: 340px;
+  }
+
+  .u-section-1 .u-text-3 {
+    width: 340px;
+    margin-bottom: 9px;
+  }
+}
